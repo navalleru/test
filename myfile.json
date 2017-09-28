@@ -1,0 +1,23 @@
+ [
+{
+"pk": 6, 
+"model": "desktop.document2",
+"fields": {
+"search": "sc.version\n", 
+"uuid": "7d9148af-3dd8-fa05-1839-d52512d86767", 
+"extra": "", 
+"type": "notebook", 
+"description": "", 
+"is_history": false, 
+"parent_directory": [
+"38176381-b3ee-4bb9-b1ec-622b229cd089", 
+1, 
+false
+], 
+"is_managed": false, 
+"last_modified": "2017-09-27T12:08:32", 
+"version": 1, 
+"owner": [
+"ejgleeck"
+], 
+"dependencies": [], 
